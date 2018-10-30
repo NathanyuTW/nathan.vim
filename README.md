@@ -15,5 +15,6 @@ $ git clone https://github.com/NathanyuTW/nathan.vim-gruvbox.git `your path`
 ##
 ### 3. Install vimrc on Vim
 ```bash
-$ cp -i nathan.vim-gruvbox/init.vim ~/.vimrc
+$ cp -i nathan.vim-gruvbox/init.vimrc ~/.vimrc
+$ cp -i nathan.vim-gruvbox/gruvbox.vim/init.vim/colors ~/.vim/
 ```
