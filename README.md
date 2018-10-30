@@ -2,16 +2,13 @@
 
 It's I used for vim color scheme and different kind of plugin
 
-
 ### 1. Install Vim package manager [Vundle](https://github.com/VundleVim/Vundle.vim/blob/master/README.md)
-
 
 ##
 ### 2. clone or [download](https://github.com/NathanyuTW/nathan.vim-gruvbox/archive/master.zip) this 
 ```git
 $ git clone https://github.com/NathanyuTW/nathan.vim-gruvbox.git `your path`
 ```
-
 
 ##
 ### 3. Install vimrc on Vim
@@ -36,21 +33,14 @@ $ vim ~/.vimrc
 ##
 ### 5. Plugin and Color Schme Git Reference
 
-
-
 [Vundle](https://github.com/VundleVim/Vundle.vim/blob/master/README.md) - Vim package manager
 
 [gruvbox](https://github.com/morhetz/gruvbox) - color scheme
 
-
-
 ##### [See more...](https://medium.com/@huntie/10-essential-vim-plugins-for-2018-39957190b7a9)
 
-###
-###
+##
 
-
-License
-------
+### 6. License
 ###### [MIT](https://github.com/NathanyuTW/nathan.vim-gruvbox/blob/master/LICENSE)
 
