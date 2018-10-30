@@ -31,7 +31,7 @@ $ vim ~/.vimrc
 ##### Dark mode
 ![Screenshot Dark](http://i.imgur.com/GkIl8Fn.png)
 ##
-### 5. Plugin and Color Schme Git Reference
+### 5. Plugin and Color Scheme Git Reference
 
 [Vundle](https://github.com/VundleVim/Vundle.vim/blob/master/README.md) - Vim package manager
 
