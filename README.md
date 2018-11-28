@@ -1,20 +1,20 @@
-# Nathan.vim-gruvbox
+# Nathan.vim
 
 It's I used for vim color scheme and different kind of plugin
 
 ### 1. Install Vim package manager [Vundle](https://github.com/VundleVim/Vundle.vim/blob/master/README.md)
 
 ##
-### 2. clone or [download](https://github.com/NathanyuTW/nathan.vim-gruvbox/archive/master.zip) this 
+### 2. clone or [download](https://github.com/NathanyuTW/nathan.vim/archive/master.zip) this 
 ```git
-$ git clone https://github.com/NathanyuTW/nathan.vim-gruvbox.git `your path`
+$ git clone https://github.com/NathanyuTW/nathan.vim.git `your path`
 ```
 
 ##
 ### 3. Install vimrc on Vim
 ```bash
-$ cp -i nathan.vim-gruvbox/init.vimrc ~/.vimrc
-$ cp -R -i nathan.vim-gruvbox/gruvbox.vim/init.vim/colors ~/.vim
+$ cp -i nathan.vim/init.vimrc ~/.vimrc
+$ cp -R -i nathan.vim/gruvbox.vim/init.vim/colors ~/.vim
 
 $ vim ~/.vimrc
 ```
@@ -42,5 +42,5 @@ $ vim ~/.vimrc
 ##
 
 ### 6. License
-###### [MIT](https://github.com/NathanyuTW/nathan.vim-gruvbox/blob/master/LICENSE)
+###### [MIT](https://github.com/NathanyuTW/nathan.vim/blob/master/LICENSE)
 
